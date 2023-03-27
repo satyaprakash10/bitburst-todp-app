@@ -5,6 +5,11 @@
 - This is a simple to-do app project built in Vue 3 (vite) and typescript using Tailwind CSS with some of its features involved.
 
 
+## Live Demo:
+
+https://todo-app-sooty-pi.vercel.app/
+
+
 ## Project Setup Steps:
 
 - ## npm install
