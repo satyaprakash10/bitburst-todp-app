@@ -10,6 +10,10 @@
 https://todo-app-sooty-pi.vercel.app/
 
 
+## Figma UI Link:
+
+https://www.figma.com/file/CZyVreuOlKjimBwvfN8qvX/BitBurst-Assessment-(Copy)?node-id=1-91&t=iwGDLSlqfoarUCq1-0
+
 ## Project Setup Steps:
 
 - ## npm install
