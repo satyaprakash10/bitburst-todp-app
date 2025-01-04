@@ -2,7 +2,7 @@
 
 ## Project Summary:
 
-- This is a simple to-do app project built in Vue 3 (vite) and typescript using Tailwind CSS with some of its features involved.
+This project is a straightforward to-do application constructed using Vue 3 (with Vite as the build tool) and TypeScript. Tailwind CSS is employed, incorporating some of its functionalities.
 
 
 ## Live Demo:
